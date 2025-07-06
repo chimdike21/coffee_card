@@ -43,4 +43,4 @@ This project is open-source and free to use.
 ⸻
 
 🙋‍♂️ Author
-	•	Chimdi Nwachukwu – LinkedIn • Twitter
+	•	Chimdike Nwachukwu 
