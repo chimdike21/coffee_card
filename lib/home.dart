@@ -15,18 +15,28 @@ class Home extends StatelessWidget {
       ),
       body: Column(
         children: [
-          Container(
-            color: Colors.brown[200],
-            padding: EdgeInsets.all(20),
-            child: const Text("How I like my coffee...")
+          SizedBox(
+            width: double.infinity, // Ensures full width
+            child: Container(
+              color: Colors.brown[200],
+              padding: EdgeInsets.all(20),
+              child: const Text("How I like my coffee...")
+            ),
           ),
           Container(
             color: Colors.brown[100],
             padding: EdgeInsets.all(20),
             child: const CoffeePrefs()
           ),
-        ],),
-      );
+          Expanded(
+            child: Image.asset(
+              "assets/coffee.jpg",
+              fit: BoxFit.cover,
+              alignment: Alignment.center,
+            )
+          ),
+        ],
+      ),
+    );
   }
 }
-
