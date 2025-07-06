@@ -1,16 +1,46 @@
-# coffee_card
+# ☕️ Coffee Card
 
-A first (practice) Flutter project.
+A simple Flutter practice app for customizing your coffee order.
 
-## Getting Started
+## 📱 Overview
 
-This project is a starting point for a Flutter application.
+**Coffee Card** lets users select their coffee preferences such as:
+- Coffee strength (represented with coffee beans 🫘)
+- Sugar quantity (shown with sugar cubes 🧊)
+- Visual feedback through styled images and buttons
 
-A few resources to get you started if this is your first Flutter project:
+This project is part of my learning journey with Flutter and mobile app development.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🛠 Features
+	•	Interactive UI with increment/decrement buttons
+	•	Dynamic image rendering based on selected preferences
+	•	Use of Flutter widgets like AppBar, Column, Row, FilledButton, and Image.asset
+	•	Clean, minimal layout for beginners
+
+⸻
+
+🔧 Built With
+	•	Flutter – UI toolkit for building beautiful apps
+	•	Dart – Programming language used for Flutter
+
+⸻
+
+📚 Learning Resources
+
+If you’re learning Flutter too, here are some helpful resources:
+	•	Flutter Docs
+	•	Flutter Codelabs
+	•	Flutter YouTube Channel
+
+⸻
+
+📄 License
+
+This project is open-source and free to use.
+
+⸻
+
+🙋‍♂️ Author
+	•	Chimdi Nwachukwu – LinkedIn • Twitter
